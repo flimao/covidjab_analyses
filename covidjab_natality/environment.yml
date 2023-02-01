@@ -1,0 +1,16 @@
+name: covidjab_natality
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scipy
+  - seaborn
+  - jupyter
+  - pandas
+  - cookiecutter
+  - python-dotenv
+  - requests
+  - tqdm
+prefix: C:\ProgramData\Anaconda3\envs\covidjab_natality
