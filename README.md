@@ -1,9 +1,9 @@
-covidjab_natality
+# Analyses of COVID vaccines
 ==============================
 
-Correlation between COVID jabs and natality
+* Correlation between COVID jabs and natality
 
-Project Organization
+## Project Organization (some files still incomplete)
 ------------
 
     ├── LICENSE
